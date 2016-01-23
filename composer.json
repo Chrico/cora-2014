@@ -1,0 +1,27 @@
+{
+  "name": "chrico/cora-2014",
+  "description": "Coras Responsive Portfolio Theme 2014",
+  "type": "wordpress-theme",
+  "authors": [
+    {
+      "name": "Chris",
+      "email": "chris@chrico.info",
+      "homepage": "https://www.chrico.info",
+      "role": "developer"
+    },
+    {
+      "name": "Cora",
+      "email": "cora@chrico.info",
+      "homepage": "https://www.chrico.info",
+      "role": "designer"
+    }
+  ],
+  "support": {
+    "email": "chris@chrico.info",
+    "issues": "https://github.com/Chrico/cora-2014/issues",
+    "source": "https://github.com/Chrico/cora-2014/"
+  },
+  "require": {
+    "php": ">=5.5"
+  }
+}
